@@ -46,5 +46,5 @@ I’m currently working on Kotlin!
 ![GitHub followers](https://img.shields.io/github/followers/jmacc?style=social)
 
 [![Kotlin](https://img.shields.io/badge/Kotlin-1.6-purple?longCache=true&style=popout-square)](https://kotlinlang.org)
-[![Android Studio](https://img.shields.io/badge/Android_Studio-4.2-blue.svg?longCache=true&style=popout-square)](https://developer.android.com/studio)
+[![Android Studio Bumblebee ](https://img.shields.io/badge/Android_Studio_Bumblebee-2021.1.1-blue.svg?longCache=true&style=popout-square)](https://developer.android.com/studio)
 [![Android](https://img.shields.io/badge/Android-10-blue.svg?longCache=true&style=popout-square)](https://www.android.com)
