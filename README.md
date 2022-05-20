@@ -30,17 +30,19 @@ I’m currently working on Kotlin!
 :mailbox_with_mail: Goals: Contribute more to projects
 
 ### 🛠️ Languages and Tools:
-<code><img height="20" alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="20" alt="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" alt="Visual Studio Code" src="https://raw.githubusercontent.com/jmacc/jmacc/fcc10af528ae7c9597970e973f96d6c37f3608f4/img/Visual.png"></code>
+<code><img height="20" alt="HTML" src="https://raw.githubusercontent.com/jmacc/jmacc/fcc10af528ae7c9597970e973f96d6c37f3608f4/img/Html.png"></code>
 <code><img height="20" alt="CSS" src="https://raw.githubusercontent.com/jmacc/jmacc/fcc10af528ae7c9597970e973f96d6c37f3608f4/img/Css.png"></code>
-<code><img height="20" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="JavaScript" src="https://raw.githubusercontent.com/jmacc/jmacc/fcc10af528ae7c9597970e973f96d6c37f3608f4/img/Js.png"></code>
 
-<code><img height="20" alt="SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="20" alt="MySQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" alt="Linux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+<code><img height="20" alt="SQL" src="https://raw.githubusercontent.com/jmacc/jmacc/fcc10af528ae7c9597970e973f96d6c37f3608f4/img/sql.png"></code>
+<code><img height="20" alt="MySQL" src="https://raw.githubusercontent.com/jmacc/jmacc/fcc10af528ae7c9597970e973f96d6c37f3608f4/img/mysql.png"></code>
+<code><img height="20" alt="Linux" src="https://raw.githubusercontent.com/jmacc/jmacc/fcc10af528ae7c9597970e973f96d6c37f3608f4/img/linux.png"></code>
 
 <code><img height="20" alt="Git" src="https://raw.githubusercontent.com/jmacc/jmacc/fcc10af528ae7c9597970e973f96d6c37f3608f4/img/Git.png"></code>
-<code><img height="20" alt="Terminal" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" alt="Terminal" src="https://raw.githubusercontent.com/jmacc/jmacc/fcc10af528ae7c9597970e973f96d6c37f3608f4/img/terminal.png"></code>
+<code><img height="20" alt="PHP" src="https://raw.githubusercontent.com/jmacc/jmacc/fcc10af528ae7c9597970e973f96d6c37f3608f4/img/php.png"></code>
+<code><img height="20" alt="Laravel" src="https://raw.githubusercontent.com/jmacc/jmacc/fcc10af528ae7c9597970e973f96d6c37f3608f4/img/laravel.png"></code>
 
 📫 Let's Connect:
 ![GitHub followers](https://img.shields.io/github/followers/jmacc?style=social)
