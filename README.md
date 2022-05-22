@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<code><img height="100" alt="jmacc" src="https://raw.githubusercontent.com/jmacc/jmacc/main/img/PortadaCorta.png"></code>
+<code><img height="1000" alt="jmacc" src="https://raw.githubusercontent.com/jmacc/jmacc/main/img/PortadaCorta.png"></code>
 
 I’m currently working on Kotlin!
 
