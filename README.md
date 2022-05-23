@@ -16,9 +16,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ..
 -->
+<<<<<<< HEAD
 
 
 <img height="100" alt="jmacc" src="https://raw.githubusercontent.com/jmacc/jmacc/main/img/PortadaCorta.png"></code>
+=======
+<code><img height="600" alt="jmacc" src="https://raw.githubusercontent.com/jmacc/jmacc/main/img/PortadaCorta.png"></code>
+>>>>>>> 5844f3ea3b7baa901c95a87c148aee1583b0b75c
 
 I’m currently working on Kotlin!
 
@@ -49,6 +53,8 @@ I’m currently working on Kotlin!
 <code><img height="20" alt="Terminal" src="https://raw.githubusercontent.com/jmacc/jmacc/fcc10af528ae7c9597970e973f96d6c37f3608f4/img/terminal.png"></code>
 <code><img height="20" alt="PHP" src="https://raw.githubusercontent.com/jmacc/jmacc/fcc10af528ae7c9597970e973f96d6c37f3608f4/img/php.png"></code>
 <code><img height="20" alt="Laravel" src="https://raw.githubusercontent.com/jmacc/jmacc/fcc10af528ae7c9597970e973f96d6c37f3608f4/img/laravel.png"></code>
+
+<p>
 
 📫 Let's Connect:
 ![GitHub followers](https://img.shields.io/github/followers/jmacc?style=social)
