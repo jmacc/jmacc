@@ -1,4 +1,6 @@
+<p align="center"> 
 ### Hi there my names is Jorge Castillo 👋
+<p>
 
 <!--
 **jmacc/jmacc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,7 +14,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ..
 -->
 <code><img height="100" alt="jmacc" src="https://raw.githubusercontent.com/jmacc/jmacc/main/img/PortadaCorta.png"></code>
 
