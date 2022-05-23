@@ -1,6 +1,6 @@
 <p align="center"> 
 ### Hi there my names is Jorge Castillo 👋
-<p>
+
 
 <!--
 **jmacc/jmacc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ..
 -->
-<code><img height="100" alt="jmacc" src="https://raw.githubusercontent.com/jmacc/jmacc/main/img/PortadaCorta.png"></code>
+
+
+<img height="100" alt="jmacc" src="https://raw.githubusercontent.com/jmacc/jmacc/main/img/PortadaCorta.png"></code>
 
 I’m currently working on Kotlin!
 
@@ -32,6 +34,7 @@ I’m currently working on Kotlin!
 
 :mailbox_with_mail: Goals: Contribute more to projects
 
+<p>
 ### 🛠️ Languages and Tools:
 <code><img height="20" alt="Visual Studio Code" src="https://raw.githubusercontent.com/jmacc/jmacc/fcc10af528ae7c9597970e973f96d6c37f3608f4/img/Visual.png"></code>
 <code><img height="20" alt="HTML" src="https://raw.githubusercontent.com/jmacc/jmacc/fcc10af528ae7c9597970e973f96d6c37f3608f4/img/Html.png"></code>
