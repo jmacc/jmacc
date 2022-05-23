@@ -16,13 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ..
 -->
-<<<<<<< HEAD
-
-
-<img height="100" alt="jmacc" src="https://raw.githubusercontent.com/jmacc/jmacc/main/img/PortadaCorta.png"></code>
-=======
 <code><img height="600" alt="jmacc" src="https://raw.githubusercontent.com/jmacc/jmacc/main/img/PortadaCorta.png"></code>
->>>>>>> 5844f3ea3b7baa901c95a87c148aee1583b0b75c
 
 I’m currently working on Kotlin!
 
