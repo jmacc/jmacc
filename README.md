@@ -34,8 +34,13 @@ I’m currently working on Kotlin!
 
 
 ### 🛠️ Tools:
-<code><img height="20" alt="Visual Studio Code" src="https://raw.githubusercontent.com/jmacc/jmacc/fcc10af528ae7c9597970e973f96d6c37f3608f4/img/Visual.png"></code>
+
 <code><img height="20" alt="Linux" src="https://raw.githubusercontent.com/jmacc/jmacc/fcc10af528ae7c9597970e973f96d6c37f3608f4/img/linux.png"></code>
+<code><img height="20" alt="Windows" src="https://raw.githubusercontent.com/jmacc/jmacc/fcc10af528ae7c9597970e973f96d6c37f3608f4/img/windows.png"></code>
+<code><img height="20" alt="WindowsServer" src="https://raw.githubusercontent.com/jmacc/jmacc/fcc10af528ae7c9597970e973f96d6c37f3608f4/img/windows-server.png"></code>
+
+### 🛠️ Tools:
+<code><img height="20" alt="Visual Studio Code" src="https://raw.githubusercontent.com/jmacc/jmacc/fcc10af528ae7c9597970e973f96d6c37f3608f4/img/Visual.png"></code>
 <code><img height="20" alt="Git" src="https://raw.githubusercontent.com/jmacc/jmacc/fcc10af528ae7c9597970e973f96d6c37f3608f4/img/Git.png"></code>
 <code><img height="20" alt="Terminal" src="https://raw.githubusercontent.com/jmacc/jmacc/fcc10af528ae7c9597970e973f96d6c37f3608f4/img/terminal.png"></code>
 <code><img height="20" alt="SQLSERVER" src="https://raw.githubusercontent.com/jmacc/jmacc/fcc10af528ae7c9597970e973f96d6c37f3608f4/img/SQLSERVER.png"></code>
