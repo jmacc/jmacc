@@ -54,7 +54,7 @@ I’m currently working on Kotlin!
 <code><img height="30" alt="MySQL" src="https://raw.githubusercontent.com/jmacc/jmacc/fcc10af528ae7c9597970e973f96d6c37f3608f4/img/mysql.png"></code>
 <code><img height="20" alt="PHP" src="https://raw.githubusercontent.com/jmacc/jmacc/fcc10af528ae7c9597970e973f96d6c37f3608f4/img/php.png"></code>
 <code><img height="20" alt="Laravel" src="https://raw.githubusercontent.com/jmacc/jmacc/fcc10af528ae7c9597970e973f96d6c37f3608f4/img/laravel.png"></code>
-<code><img height="20" alt="Kotlin" src="https://raw.githubusercontent.com/jmacc/jmacc/fcc10af528ae7c9597970e973f96d6c37f3608f4/img/laravel.png"></code>
+<code><img height="20" alt="Kotlin" src="https://raw.githubusercontent.com/jmacc/jmacc/main/img/kotlin.png"></code>
 
 <p>
 
